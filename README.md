@@ -1,4 +1,4 @@
-📊 Superstore Sales Dashboard – Power BI Project
+Superstore Sales Dashboard – Power BI Project
 
 This Power BI project analyzes retail sales performance using the Superstore dataset, transforming raw transactional data into interactive business insights.
 
@@ -6,15 +6,15 @@ The dashboard tracks $2.30M in total sales, $286K in profit, and 38K units sold,
 
 Key Features
 
-📈 Sales by Product Sub-Category to identify top and low performing products
+- Sales by Product Sub-Category to identify top and low performing products
 
-🌎 Regional Sales Distribution across West, East, Central, and South markets
+- Regional Sales Distribution across West, East, Central, and South markets
 
-🎯 Sales Progress vs Target to evaluate business performance against goals
+- Sales Progress vs Target to evaluate business performance against goals
 
-📊 KPI cards displaying Total Sales, Profit, and Quantity Sold
+- KPI cards displaying Total Sales, Profit, and Quantity Sold
 
-🔎 Interactive filters enabling region-level analysis
+- Interactive filters enabling region-level analysis
 
 Tools & Skills Used
 
