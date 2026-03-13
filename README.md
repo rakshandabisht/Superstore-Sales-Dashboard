@@ -18,18 +18,18 @@ Key Features
 
 Tools & Skills Used
 
--Power BI – Data modeling & dashboard design
+- Power BI – Data modeling & dashboard design
 
--Excel – Data preparation
+- Excel – Data preparation
 
--DAX – KPI calculations and performance metrics
+- DAX – KPI calculations and performance metrics
 
--Data Visualization & Business Storytelling
+- Data Visualization & Business Storytelling
 
 Key Insights
 
--Phones and Chairs generate the highest sales among product sub-categories.
+- Phones and Chairs generate the highest sales among product sub-categories.
 
--The West region contributes the largest share of total sales, followed by East and Central, while South shows comparatively lower performance.
+- The West region contributes the largest share of total sales, followed by East and Central, while South shows comparatively lower performance.
 
--Lower-performing product segments highlight opportunities for inventory optimization and targeted marketing strategies.
+- Lower-performing product segments highlight opportunities for inventory optimization and targeted marketing strategies.
